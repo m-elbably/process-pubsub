@@ -1,6 +1,6 @@
 {
     "name": "process-pubsub",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A tiny library that enables node applications to publish events to one multiple interested consumers asynchronously, without coupling the producers to the consumers",
     "homepage": "https://github.com/m-elbably/process-pubsub#readme",
     "repository": "https://github.com/m-elbably/process-pubsub",
